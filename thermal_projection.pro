@@ -4,7 +4,7 @@
 ;02/13/2014
 ;*************************************************
 
-pro midterm,filename,nsteps
+pro thermal_projection,filename,nsteps
 compile_opt idl2
 
 ;*******USER INPUT*******
