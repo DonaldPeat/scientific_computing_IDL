@@ -1,1 +1,1 @@
-#thermal projection sim using IDL
+Thermal projection sim using IDL.
