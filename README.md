@@ -1,2 +1,1 @@
-scientific_computing_IDL
-========================
+#thermal projection sim using IDL
